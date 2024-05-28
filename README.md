@@ -3,7 +3,14 @@
 ## Project Overview
 This project demonstrates the use of various AWS DevOps tools including CodeCommit, CodeBuild, CodeDeploy, and CodePipeline to create a seamless CI/CD workflow. The workflow involves building a repository, setting up a build process, deploying applications, and automating the entire process.
 
-![image](https://github.com/Aditi55Pathak/Devops/assets/80877301/f06cf38b-495d-43cb-9eca-3c2f65d91575)
+![WhatsApp Image 2024-05-28 at 7 40 07 PM (1)](https://github.com/Aditi55Pathak/Devops/assets/80877301/958f283a-7691-4b7f-aca7-090e58cab754)
+
+![WhatsApp Image 2024-05-28 at 7 40 07 PM](https://github.com/Aditi55Pathak/Devops/assets/80877301/355e6392-d481-43c6-866d-0c16049b8713)
+
+![WhatsApp Image 2024-05-28 at 7 40 06 PM](https://github.com/Aditi55Pathak/Devops/assets/80877301/0f9054b9-ada5-434c-84f5-def17a83fddc)
+
+![WhatsApp Image 2024-05-28 at 7 40 01 PM](https://github.com/Aditi55Pathak/Devops/assets/80877301/a233233f-076c-4b16-bb7f-2fc729dd023d)
+
 
 
 ## Workflow
